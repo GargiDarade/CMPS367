@@ -1,0 +1,36 @@
+
+C:\Gargi\CMPS367\GroupExercise3>GroupExercise3
+
+-------------------Welcome to Basic Math Calculator----------------------
+opetations available are:
+
+ (+) - Addition
+ (-) - Subtraction
+ (*) - Multiplication
+ (/) - Division
+-------------------------------------------------------------------------
+Enter a problem to solve:23 + 12
+
+Input Eq:23 + 12
+Total:35.00
+like to try again! (Y/N):y
+
+Enter a problem to solve:23 - 12
+
+Input Eq:23 - 12
+Total:11.00
+like to try again! (Y/N):y
+
+Enter a problem to solve:23 * 2
+
+Input Eq:23 * 2
+Total:46.00
+like to try again! (Y/N):y
+
+Enter a problem to solve:23 / 2
+
+Input Eq:23 / 2
+Total:11.50
+like to try again! (Y/N):n
+
+Thank you for using calculator app!
