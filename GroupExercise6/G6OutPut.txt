@@ -1,0 +1,52 @@
+
+C:\Gargi\CMPS367\GroupExercise6>GroupExercise6
+
+
+-------------------Welcome to Basic Math Calculator----------------------
+opetations available are:
+
+ (+) - Addition
+ (-) - Subtraction
+ (*) - Multiplication
+ (/) - Division
+ (%) - Modulus
+ (^) - Exponent
+-------------------------------------------------------------------------
+Enter a problem to solve:23+2
+
+Problem:23 + 2
+Solution:25
+like to try again! (Y/N):y
+
+Enter a problem to solve:23-2
+
+Problem:23 - 2
+Solution:21
+like to try again! (Y/N):y
+
+Enter a problem to solve:23*2
+
+Problem:23 * 2
+Solution:46
+like to try again! (Y/N):y
+
+Enter a problem to solve:23/2
+
+Problem:23 / 2
+Solution:11.5
+like to try again! (Y/N):y
+
+Enter a problem to solve:23%2
+
+Problem:23 % 2
+Solution:1
+like to try again! (Y/N):y
+
+Enter a problem to solve:23^2
+
+Problem:23 ^ 2
+Solution:529
+like to try again! (Y/N):n
+
+Thank you for using calculator app!
+
