@@ -1,0 +1,76 @@
+
+C:\Gargi\CMPS367\GroupExercise7>GroupExercise7
+
+-------------------Welcome to credit card portal----------------------
+1.) Apply for a new credit card account
+2.) Make a payment
+3.) View balance
+
+What would you like to do (enter Index): 1
+Please enter your full name:Gargi Darade
+Please enter your age:23
+Please enter your annual income:100000
+
+Credit card account created successfully!
+Person name:Gargi Darade        Age:23
+Credit card account number:41
+Credit limit amount:$5000
+
+like to try again! (Y/N):y
+1.) Apply for a new credit card account
+2.) Make a payment
+3.) View balance
+
+What would you like to do (enter Index): 2
+Please enter your account number:12
+account number 12 does not exist with this credit card company.
+
+like to try again! (Y/N):y
+1.) Apply for a new credit card account
+2.) Make a payment
+3.) View balance
+
+What would you like to do (enter Index): 3
+Person name:Gargi Darade        Age:23
+Credit card account number:41
+Credit limit amount:$5000
+
+like to try again! (Y/N):y
+1.) Apply for a new credit card account
+2.) Make a payment
+3.) View balance
+
+What would you like to do (enter Index): 2
+Please enter your account number:41
+Please enter amount you would like to pay:$6000
+
+Amount $6000 is more than available, balance payment declined
+
+like to try again! (Y/N):y
+1.) Apply for a new credit card account
+2.) Make a payment
+3.) View balance
+
+What would you like to do (enter Index): 2
+Please enter your account number:41
+Please enter amount you would like to pay:$1000
+
+Amount $1000 paid successfully, new balance is $4000
+
+like to try again! (Y/N):y
+1.) Apply for a new credit card account
+2.) Make a payment
+3.) View balance
+
+What would you like to do (enter Index): 3
+Person name:Gargi Darade        Age:23
+Credit card account number:41
+Credit limit amount:$5000
+Total credit amount used (amount you owe):$1000
+Credit amount can be used for payment:$4000
+
+like to try again! (Y/N):n
+
+Thank you for using credit card!
+
+
