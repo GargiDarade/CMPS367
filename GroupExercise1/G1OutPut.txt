@@ -1,0 +1,38 @@
+
+C:\Gargi\CMPS367\GroupExercise1>GroupExercise1
+
+
+Please provide weather-related data.
+Please enter current Temperature (in degrees Celsius). 23
+
+Please enter current Humidity (as a percentage). 24
+
+Please enter current Wind Speed (in kilometers per hour). 9
+
+Present weather is comfortable, dry and calm
+
+like to check again! (Y/N):y
+
+Please provide weather-related data.
+Please enter current Temperature (in degrees Celsius). 30
+
+Please enter current Humidity (as a percentage). 40
+
+Please enter current Wind Speed (in kilometers per hour). 21
+
+Present weather is quite warm, moderate humidity and breezy
+
+like to check again! (Y/N):y
+
+Please provide weather-related data.
+Please enter current Temperature (in degrees Celsius). 10
+
+Please enter current Humidity (as a percentage). 8
+
+Please enter current Wind Speed (in kilometers per hour). 31
+
+Present weather is comfortable, dry and windy
+
+like to check again! (Y/N):n
+
+Thank you for using weather app!
