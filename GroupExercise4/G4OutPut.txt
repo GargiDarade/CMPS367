@@ -1,0 +1,8 @@
+
+C:\Gargi\CMPS367\GroupExercise4>GroupExercise4
+
+ List of full Names:
+(Gargi Darade, Aditi Darade, Tanu Kute, Avanti Sirsath, Revati Sirsath)
+ List of corresponding initials:
+(GD, AD, TK, AS, RS)
+
