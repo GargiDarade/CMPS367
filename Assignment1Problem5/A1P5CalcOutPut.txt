@@ -1,0 +1,182 @@
+
+C:\Gargi\CMPS367\Assignment1\Problem5>MathCalculator
+
+-------------------Welcome to Basic Math Calculator-------------------
+ (+) - Addition
+ (-) - Subtraction
+ (*) - Multiplication
+ (/) - Division
+ (%) - Modulus
+ (^) - Exponent
+ sin
+ asin
+ cos
+ acos
+ tan
+ atan
+ atan2
+ sqrt
+ ceil
+ abs
+ floor
+ max
+ min
+ log
+ log10
+ log2
+ round
+
+Choose an operation/Operator/problem to solve (from the list): +
+
+Enter your first number: 12
+
+Enter your second number: 13
+
+ problem: 12 + 13
+Your answer is: 25
+Would you like to try another one? (y/n):y
+
+Choose an operation/Operator/problem to solve (from the list): -
+
+Enter your first number: 12
+
+Enter your second number: 1
+
+ problem: 12 - 1
+Your answer is: 11
+Would you like to try another one? (y/n):y
+
+Choose an operation/Operator/problem to solve (from the list): *
+
+Enter your first number: 3
+
+Enter your second number: 4
+
+ problem: 3 * 4
+Your answer is: 12
+Would you like to try another one? (y/n):y
+
+Choose an operation/Operator/problem to solve (from the list): /
+
+Enter your first number: 23
+
+Enter your second number: 2
+
+ problem: 23 / 2
+ answer is: 11 and your remainder is : 1
+Your answer is: 11.5
+Would you like to try another one? (y/n):y
+
+Choose an operation/Operator/problem to solve (from the list): %
+
+Enter your first number: 34
+
+Enter your second number: 3
+
+ problem: 34 % 3
+Your answer is: 1
+Would you like to try another one? (y/n):y
+
+Choose an operation/Operator/problem to solve (from the list): ^
+
+Enter your first number: 2
+
+Enter your second number: 8
+
+ problem: 2 ^ 8
+Your answer is: 256
+Would you like to try another one? (y/n):y
+
+Choose an operation/Operator/problem to solve (from the list): sin
+
+Enter your number: 60
+
+ problem: sin( 60 )
+Your answer is: -0.304811
+Would you like to try another one? (y/n):y
+
+Choose an operation/Operator/problem to solve (from the list): atan2
+
+Enter your number (x-coordinate): 34
+
+Enter your number (Y-coordinate): 54
+
+ problem: atan2( 54/34)
+Your answer is: 1.00887
+Would you like to try another one? (y/n):y
+
+Choose an operation/Operator/problem to solve (from the list): floor
+
+Enter your number: 13.5
+
+ problem: floor( 13.5 )
+Your answer is: 13
+Would you like to try another one? (y/n):y
+
+Choose an operation/Operator/problem to solve (from the list): ceil
+
+Enter your number: 13.5
+
+ problem: ceil( 13.5 )
+Your answer is: 14
+Would you like to try another one? (y/n):y
+
+Choose an operation/Operator/problem to solve (from the list): max
+
+Enter your first number: 23
+
+Enter your second number: 76
+
+ problem: max( 23, 76 )
+Your answer is: 76
+Would you like to try another one? (y/n):y
+
+Choose an operation/Operator/problem to solve (from the list): log
+
+Enter your number: 23
+
+ problem: log( 23 )
+Your answer is: 3.13549
+Would you like to try another one? (y/n):y
+
+Choose an operation/Operator/problem to solve (from the list): log2
+
+Enter your number: 23
+
+ problem: log2( 23 )
+Your answer is: 4.52356
+Would you like to try another one? (y/n):y
+
+Choose an operation/Operator/problem to solve (from the list): log10
+
+Enter your number: 23
+
+ problem: log10( 23 )
+Your answer is: 1.36173
+Would you like to try another one? (y/n):y
+
+Choose an operation/Operator/problem to solve (from the list): round
+
+Enter your number: 12.5
+
+ problem: round( 12.5 )
+Your answer is: 13
+Would you like to try another one? (y/n):y
+
+Choose an operation/Operator/problem to solve (from the list): round
+
+Enter your number: 12.4
+
+ problem: round( 12.4 )
+Your answer is: 12
+Would you like to try another one? (y/n):y
+
+Choose an operation/Operator/problem to solve (from the list): round
+
+Enter your number: 12.49
+
+ problem: round( 12.49 )
+Your answer is: 12
+Would you like to try another one? (y/n):n
+
+Thanks for using the Basic Math Calculator!.
