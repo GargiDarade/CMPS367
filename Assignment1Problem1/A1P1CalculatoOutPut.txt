@@ -1,0 +1,87 @@
+C:\Gargi\CMPS367\Assignment1\Problem1>Assignment1Calculator
+
+Please provide multiple operations expression to solve.
+(3 * 5^2 / 15) - (5 - 2^2)
+
+Input Eq:(3 * 5^2 / 15) - (5 - 2^2)
+Step: 3 *25/ 15 - (5 - 2^2)
+Step: 75/ 15 - (5 - 2^2)
+Step: 5 - (5 - 2^2)
+Step: 5 - (5 -4)
+Step: 5 - 1
+Step: 4
+The answer to this problem is:4
+like to try again! (Y/N):y
+
+Please provide multiple operations expression to solve.
+2^8*4-2^8
+
+Input Eq:2^8*4-2^8
+Step: 256*4-2^8
+Step: 256*4-256
+Step: 1024-256
+Step: 768
+The answer to this problem is:768
+like to try again! (Y/N):y
+
+Please provide multiple operations expression to solve.
+(5+3*5/2)-(9-8+2)
+
+Input Eq:(5+3*5/2)-(9-8+2)
+Step: (5+15/2)-(9-8+2)
+Step: (5+7.500000)-(9-8+2)
+Step: 12.500000-(9-8+2)
+Step: 12.500000-(1+2)
+Step: 12.500000-3
+Step: 9.500000
+The answer to this problem is:9.500000
+like to try again! (Y/N):y
+
+Please provide multiple operations expression to solve.
+(2+3+5-4)*5/3
+
+Input Eq:(2+3+5-4)*5/3
+Step: (5+5-4)*5/3
+Step: (10-4)*5/3
+Step: 6*5/3
+Step: 30/3
+Step: 10
+The answer to this problem is:10
+like to try again! (Y/N):y
+
+Please provide multiple operations expression to solve.
+(2+3+5)*5/3
+
+Input Eq:(2+3+5)*5/3
+Step: (5+5)*5/3
+Step: 10*5/3
+Step: 50/3
+Step: 16.666667
+The answer to this problem is:16.666667
+like to try again! (Y/N):y
+
+Please provide multiple operations expression to solve.
+(2^10-5*9)*2+5
+
+Input Eq:(2^10-5*9)*2+5
+Step: (1024-5*9)*2+5
+Step: (1024-45)*2+5
+Step: 979*2+5
+Step: 1958+5
+Step: 1963
+The answer to this problem is:1963
+like to try again! (Y/N):y
+
+Please provide multiple operations expression to solve.
+(((2+3)*3-5)*2-10)
+
+Input Eq:(((2+3)*3-5)*2-10)
+Step: ((5*3-5)*2-10)
+Step: ((15-5)*2-10)
+Step: (10*2-10)
+Step: (20-10)
+Step: 10
+The answer to this problem is:10
+like to try again! (Y/N):n
+
+Thank you for using calculator app!
