@@ -1,0 +1,49 @@
+
+C:\Gargi\CMPS367\Assignment2\Problem2>BirthDateMeaning
+
+Welcome to Birthday Date Meaning Generator!
+Please enter the month of your birthday (January/Jan - December/Dec): Feb
+
+Please enter the day of your birthday (1 - 31): 9
+
+Please enter the year of your birthday (2000 - 2023): 2005
+
+
+The month of Feb means:
+From the Latin word februa, 'to cleanse.'
+
+The 9 of Feb means:
+It's your compassion that makes you shine. You're devoted to helping the greater good
+and have a strong talent for speaking up for others. Your soul is most satisfied when you are giving
+and being of service.
+
+The year of 2005 means:
+You are honest, intelligent, and ambitious, and like to rely on yourself rather than other people. You
+can be selfish and a little too blunt, and need to control this tendency to get along with those around you.
+You can be an emotional roller coaster and feel things very deeply. You're excitable, but quickly lose
+interest in things.
+
+Would you like to try another one? (y/n):y
+
+Please enter the month of your birthday (January/Jan - December/Dec): Jul
+
+Please enter the day of your birthday (1 - 31): 29
+
+Please enter the year of your birthday (2000 - 2023): 2001
+
+
+The month of Jul means:
+Named to honor Roman dictator Julius Caesar (100 B.C.- 44 B.C.) after his death.
+
+The 29 of Jul means:
+With a 29 Birthday number, you have an amazing ability to bring things together.
+You receive powerful subconscious insights that help you clearly see how everything and everyone is connected.
+
+The year of 2001 means:
+You have a lot of energy and are very passionate about things. Learn to control your emotions or you
+will drive people away. You want to be in control and tend not to listen to other's ideas. You find it hard to
+trust other people's opinions. You work hard and will accomplish whatever goal you set your smind to.
+
+Would you like to try another one? (y/n):n
+
+Thanks for playing!
