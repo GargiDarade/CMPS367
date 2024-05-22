@@ -1,0 +1,152 @@
+
+C:\Gargi\CMPS367\Assignment2\Problem3>BmiCalculator
+
+-------------------------BMI Calculator--------------------------
+| Category                      | BMI Range (kg/m2)             |
+-----------------------------------------------------------------
+| Severe Thinness               | <16                           |
+-----------------------------------------------------------------
+| Moderate Thinness             | 16 - 17                       |
+-----------------------------------------------------------------
+| Mild Thinness                 | 17 - 18.5                     |
+-----------------------------------------------------------------
+| Normal                        | 18.5 - 25                     |
+-----------------------------------------------------------------
+| Overweight                    | 25 - 30                       |
+-----------------------------------------------------------------
+| Obese Class I                 | 30 - 35                       |
+-----------------------------------------------------------------
+| Obese Class II                | 35 - 40                       |
+-----------------------------------------------------------------
+| Obese Class III               | >40                           |
+-----------------------------------------------------------------
+                    Welcome to BMI Calculator!
+
+Please enter your name: Sunil
+
+Please enter your age: 52
+
+Please enter your Gender: Male
+
+Please enter your height in feet: 5
+
+Please enter your height in inches: 6
+
+Please enter your weight in pounds: 127
+Hi Sunil,
+You are a Male. You are 52 years old. You are currently 5.00 feet, 6.00 inches and you currently weight 127.00 pounds. Your BMI is 20.50, which is Normal.
+Thank you for using the BMI Calculator!
+
+C:\Gargi\CMPS301\Assignment3\Problem1>BmiCalculator
+
+-------------------------BMI Calculator--------------------------
+| Category                      | BMI Range (kg/m2)             |
+-----------------------------------------------------------------
+| Severe Thinness               | <16                           |
+-----------------------------------------------------------------
+| Moderate Thinness             | 16 - 17                       |
+-----------------------------------------------------------------
+| Mild Thinness                 | 17 - 18.5                     |
+-----------------------------------------------------------------
+| Normal                        | 18.5 - 25                     |
+-----------------------------------------------------------------
+| Overweight                    | 25 - 30                       |
+-----------------------------------------------------------------
+| Obese Class I                 | 30 - 35                       |
+-----------------------------------------------------------------
+| Obese Class II                | 35 - 40                       |
+-----------------------------------------------------------------
+| Obese Class III               | >40                           |
+-----------------------------------------------------------------
+                    Welcome to BMI Calculator!
+
+Please enter your name: Sujata
+
+Please enter your age: 45
+
+Please enter your Gender: female
+
+Please enter your height in feet: 5
+
+Please enter your height in inches: 5
+
+Please enter your weight in pounds: 198.4
+Hi Sujata,
+You are a female. You are 45 years old. You are currently 5.00 feet, 5.00 inches and you currently weight 198.40 pounds. Your BMI is 33.01, which is Obese Class I.
+Thank you for using the BMI Calculator!
+
+C:\Gargi\CMPS301\Assignment3\Problem1>BmiCalculator
+
+-------------------------BMI Calculator--------------------------
+| Category                      | BMI Range (kg/m2)             |
+-----------------------------------------------------------------
+| Severe Thinness               | <16                           |
+-----------------------------------------------------------------
+| Moderate Thinness             | 16 - 17                       |
+-----------------------------------------------------------------
+| Mild Thinness                 | 17 - 18.5                     |
+-----------------------------------------------------------------
+| Normal                        | 18.5 - 25                     |
+-----------------------------------------------------------------
+| Overweight                    | 25 - 30                       |
+-----------------------------------------------------------------
+| Obese Class I                 | 30 - 35                       |
+-----------------------------------------------------------------
+| Obese Class II                | 35 - 40                       |
+-----------------------------------------------------------------
+| Obese Class III               | >40                           |
+-----------------------------------------------------------------
+                    Welcome to BMI Calculator!
+
+Please enter your name: Harish
+
+Please enter your age: 42
+
+Please enter your Gender: male
+
+Please enter your height in feet: 5
+
+Please enter your height in inches: 6
+
+Please enter your weight in pounds: 242.4
+Hi Harish,
+You are a male. You are 42 years old. You are currently 5.00 feet, 6.00 inches and you currently weight 242.40 pounds. Your BMI is 39.12, which is Obese Class II.
+Thank you for using the BMI Calculator!
+
+C:\Gargi\CMPS301\Assignment3\Problem1>BmiCalculator
+
+-------------------------BMI Calculator--------------------------
+| Category                      | BMI Range (kg/m2)             |
+-----------------------------------------------------------------
+| Severe Thinness               | <16                           |
+-----------------------------------------------------------------
+| Moderate Thinness             | 16 - 17                       |
+-----------------------------------------------------------------
+| Mild Thinness                 | 17 - 18.5                     |
+-----------------------------------------------------------------
+| Normal                        | 18.5 - 25                     |
+-----------------------------------------------------------------
+| Overweight                    | 25 - 30                       |
+-----------------------------------------------------------------
+| Obese Class I                 | 30 - 35                       |
+-----------------------------------------------------------------
+| Obese Class II                | 35 - 40                       |
+-----------------------------------------------------------------
+| Obese Class III               | >40                           |
+-----------------------------------------------------------------
+                    Welcome to BMI Calculator!
+
+Please enter your name: Gargi
+
+Please enter your age: 19
+
+Please enter your Gender: female
+
+Please enter your height in feet: 5
+
+Please enter your height in inches: 6
+
+Please enter your weight in pounds: 99.2
+Hi Gargi,
+You are a female. You are 19 years old. You are currently 5.00 feet, 6.00 inches and you currently weight 99.20 pounds. Your BMI is 16.01, which is Moderate Thinness.
+Thank you for using the BMI Calculator!
