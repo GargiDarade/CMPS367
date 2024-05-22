@@ -1,0 +1,135 @@
+C:\Gargi\CMPS367\Assignment3\Problem1>BankAccountMS
+
+-------------------Welcome Chase bank portal----------------------
+1. Create a new bank account with an initial balance.
+2. Deposit money into an account.
+3. Withdraw money from an account.
+4.Display the current balance of an account.
+
+What would you like to do (enter Index): 1
+
+Enter your name:Gargi Darade
+
+Enter your initial balance:100
+
+Congratulations Gargi Darade!
+You have successfully opened your new bank account with an initial balance of $100.
+Your account number is 9251.
+
+like to try again! (Y/N):y
+1. Create a new bank account with an initial balance.
+2. Deposit money into an account.
+3. Withdraw money from an account.
+4.Display the current balance of an account.
+
+What would you like to do (enter Index): 1
+
+Enter your name:Aditi Darade
+
+Enter your initial balance:45
+
+Congratulations Aditi Darade!
+You have successfully opened your new bank account with an initial balance of $45.
+Your account number is 9313.
+
+like to try again! (Y/N):y
+1. Create a new bank account with an initial balance.
+2. Deposit money into an account.
+3. Withdraw money from an account.
+4.Display the current balance of an account.
+
+What would you like to do (enter Index): 2
+
+Enter the account number:9312
+
+No account number exists!.
+
+like to try again! (Y/N):y
+1. Create a new bank account with an initial balance.
+2. Deposit money into an account.
+3. Withdraw money from an account.
+4.Display the current balance of an account.
+
+What would you like to do (enter Index): 2
+
+Enter the account number:9312
+
+No account number exists!.
+
+like to try again! (Y/N):y
+1. Create a new bank account with an initial balance.
+2. Deposit money into an account.
+3. Withdraw money from an account.
+4.Display the current balance of an account.
+
+What would you like to do (enter Index): 2
+
+Enter the account number:9313
+
+Enter the amount that you would like to deposit:25
+
+Congratulations Aditi Darade!
+You have successfully deposited the amount of $25 in your account #9313
+Your current balance is $70
+
+like to try again! (Y/N):y
+1. Create a new bank account with an initial balance.
+2. Deposit money into an account.
+3. Withdraw money from an account.
+4.Display the current balance of an account.
+
+What would you like to do (enter Index): 3
+
+Enter the account number:9313
+
+Enter the amount that you would like to withdraw:50
+
+Congratulations Aditi Darade!
+You have successfully withdrawn the amount of $50 in your account #9313
+Your current balance is $20
+
+like to try again! (Y/N):y
+1. Create a new bank account with an initial balance.
+2. Deposit money into an account.
+3. Withdraw money from an account.
+4.Display the current balance of an account.
+
+What would you like to do (enter Index): 4
+
+Enter the account number:9251
+
+Your current balance is $100
+
+like to try again! (Y/N):y
+1. Create a new bank account with an initial balance.
+2. Deposit money into an account.
+3. Withdraw money from an account.
+4.Display the current balance of an account.
+
+What would you like to do (enter Index): 2
+
+Enter the account number:9251
+
+Enter the amount that you would like to deposit:50
+
+Congratulations Gargi Darade!
+You have successfully deposited the amount of $50 in your account #9251
+Your current balance is $150
+
+like to try again! (Y/N):y
+1. Create a new bank account with an initial balance.
+2. Deposit money into an account.
+3. Withdraw money from an account.
+4.Display the current balance of an account.
+
+What would you like to do (enter Index): 4
+
+Enter the account number:9251
+
+Your current balance is $150
+
+like to try again! (Y/N):n
+
+Thank you for using bank portal!
+
+
