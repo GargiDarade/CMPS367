@@ -1,0 +1,66 @@
+C:\Gargi\CMPS367\Assignment4\Problem1>ShapeHierachy
+
+
+-------------------Example of Shape Hierachy----------------------
+1. Rectangle.
+2. Triangle.
+3. Circle.
+4. Square.
+which shape you would like to calculate the area and perimeter (enter Index):1
+
+Enter the width of the Rectangle:5
+
+Enter the height of the Rectangle:9
+
+
+Area:45 (square units)
+Perimeter:28 (units)
+Shape: Rectangle
+
+like to try again! (Y/N):y
+1. Rectangle.
+2. Triangle.
+3. Circle.
+4. Square.
+which shape you would like to calculate the area and perimeter (enter Index):2
+
+Enter the width/base of the Triangle (isosceles triangle):8
+
+Enter the height of the Triangle (isosceles triangle):3
+
+
+Area:12 (square units)
+Perimeter:18 (units)
+Shape: Rectangle
+
+like to try again! (Y/N):y
+1. Rectangle.
+2. Triangle.
+3. Circle.
+4. Square.
+which shape you would like to calculate the area and perimeter (enter Index):3
+
+Enter the radius of the Circle:5
+
+
+Area:78.5397 (square units)
+Perimeter:31.4159 (units)
+Shape: Square
+
+like to try again! (Y/N):y
+1. Rectangle.
+2. Triangle.
+3. Circle.
+4. Square.
+which shape you would like to calculate the area and perimeter (enter Index):4
+
+Enter the side of the Square:5
+
+
+Area:25 (square units)
+Perimeter:20 (units)
+Shape: Square
+
+like to try again! (Y/N):n
+
+Thank you for using Shape Hierachy portal!
