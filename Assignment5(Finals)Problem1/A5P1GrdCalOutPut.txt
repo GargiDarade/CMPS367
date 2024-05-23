@@ -1,0 +1,90 @@
+C:\Gargi\CMPS367\Assignment5\Problem1>GradeCalculator
+
+-------------------Welcome to the Grade Calculator----------------------
+
+Enter the course dept:CMPS
+
+Enter the course number:301
+
+Enter the course name:Programming Concepts
+
+Enter the number of students that will be scored:10
+
+Enter maximum grade points possible:10
+
+Enter the score for student No.1 :6
+
+Enter the score for student No.2 :9
+
+Enter the score for student No.3 :10
+
+Enter the score for student No.4 :5
+
+Enter the score for student No.5 :7
+
+Enter the score for student No.6 :5
+
+Enter the score for student No.7 :4
+
+Enter the score for student No.8 :3
+
+Enter the score for student No.9 :9
+
+Enter the score for student No.10 :7
+
+-------------------Grades Information----------------------
+Course: CMPS 301: Programming Concepts
+Scores: 3 4 5 5 6 7 7 9 9 10
+Average:65.000000%
+Lowest Score: 3
+Highest Score: 10
+like to try again! (Y/N):y
+
+Enter the course dept:CMPS
+
+Enter the course number:367
+
+Enter the course name:Object Oriented Language C++
+
+Enter the number of students that will be scored:13
+
+Enter maximum grade points possible:100
+
+Enter the score for student No.1 :79
+
+Enter the score for student No.2 :100
+
+Enter the score for student No.3 :91
+
+Enter the score for student No.4 :87
+
+Enter the score for student No.5 :56
+
+Enter the score for student No.6 :23
+
+Enter the score for student No.7 :65
+
+Enter the score for student No.8 :79
+
+Enter the score for student No.9 :99
+
+Enter the score for student No.10 :76
+
+Enter the score for student No.11 :88
+
+Enter the score for student No.12 :79
+
+Enter the score for student No.13 :97
+
+-------------------Grades Information----------------------
+Course: CMPS 367: Object Oriented Language C++
+Scores: 23 56 65 76 79 79 79 87 88 91 97 99 100
+Average:78.384615%
+Lowest Score: 23
+Highest Score: 100
+like to try again! (Y/N):n
+
+Thank you for using grade calculator!
+
+
+
